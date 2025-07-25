@@ -1,11 +1,11 @@
-<!-- Top Gradient Header -->
+<!-- 🎉 Gradient Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Dark%20Mode%20Fan%20|%20Bug%20Fixer%20Extraordinaire&descSize=18&descAlign=50&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Dark%20Mode%20Fan%20|%20Bug%20Fixer%20Extraordinaire&descSize=18&descAlign=50&descAlignY=65&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ⌨️ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=I+ship+UIs+in+Dark+Mode;Full+Stack+Web+Developer;React+%2B+Next+%2B+Node+%2B+MySQL;Let’s+build+something+cool." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=I+ship+UIs+in+Dark+Mode;Full+Stack+Web+Developer;React+%2F+Next+%2F+Node+%2F+MySQL;Let’s+build+something+cool." />
 </p>
 
 ---
@@ -22,7 +22,7 @@ I'm **Parth** — a creative, bug-busting, and design-obsessed **Full Stack Deve
 
 ---
 
-## 🔧 Tech Toolbox – ⚡ Now With Style
+## 🧰 Tech Toolbox – ⚡ Dark Mode Edition
 
 <p align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&border=true&borderRadius=25&fontFamily=Fira+Code&animation=fadeIn&lineHeight=25&icons=html,css,javascript,react,nextjs,nodejs,mysql,bootstrap,git,github&theme=tokyonight" />
@@ -34,12 +34,13 @@ I'm **Parth** — a creative, bug-busting, and design-obsessed **Full Stack Deve
 
 ## 🛠️ Projects & Collabs
 
-Coming soon: custom **project cards** for live demos + GitHub links.  
-Want one designed in this style? Ping me!
+✨ Coming soon: custom **project cards** with previews & links.
+
+📬 Want one designed for your README? Let’s collab on something awesome.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">
@@ -63,7 +64,7 @@ Want one designed in this style? Ping me!
 
 ---
 
-<!-- Footer Dark Wave -->
+<!-- 🌊 Dark Wavy Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=120&section=footer"/>
 </p>
