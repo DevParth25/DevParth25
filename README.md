@@ -1,60 +1,96 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="DevParth25 Banner" style="width:100%; border-radius: 16px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" />
 </p>
 
-<!-- Glowing Heading -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="40" />
-  ʜᴇʏ, ɪ'ᴍ ᴘᴀʀᴛʜ – Fᴜʟʟ Sᴛᴀᴄᴋ Dᴇᴠᴇʟᴏᴘᴇʀ
-</h1>
-
-<p align="center">
-  <i>Building slick interfaces, powerful backends, and everything in between with a dash of neon.</i>
-</p>
-
-<!-- Intro Section -->
+<!-- Avatar & Intro -->
 <div align="center">
 
-✨ Passionate about full-stack development  
-🌙 Dark mode isn't a feature – it's a lifestyle  
-🚀 Tech Stack: HTML, CSS, Bootstrap, JavaScript, ReactJS, NextJS, NodeJS, MySQL  
-🔥 Making the web faster, prettier, and slightly sarcastic  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+
+# 👋 Hey, I'm Parth Panchal
+
+💻 Full Stack Developer | 🎨 Dark Mode Designer | 🧠 Problem Solver
+
+<p align="center">
+  <i>“Making the web faster, cooler, and slightly more sarcastic—one commit at a time.”</i>
+</p>
+
+![Skills Animation](./Skills_Animation_Dark.gif)
 
 </div>
 
 ---
 
-<!-- Skills Grid -->
-<h2 align="center">⚙️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,nodejs,mysql&theme=dark" />
-</p>
+## 🚀 About Me
 
-<!-- Glowing Skill Animation -->
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Full%20Stack&lineCount=2&line1=Frontend%3A%20HTML%2C%20CSS%2C%20JS%2C%20React%2C%20NextJS&line2=Backend%3A%20NodeJS%2C%20Express%2C%20MySQL&animation=wave&theme=dark" />
-</p>
+- 🔭 Currently working on modern full stack apps using `React`, `Next.js`, `Node.js`, and `MySQL`.
+- 🎨 Passionate about UI/UX design, micro-animations & neon aesthetics.
+- 🧠 Always learning: exploring DevOps, WebGL, and system design.
+- 🧩 I love brain teasers, hacking together side projects, and reading source code.
+- ⚡ Fun Fact: I drink too much coffee and rename variables 8 times before pushing.
 
 ---
 
-<!-- Fancy Card Box -->
+## 🛠 Tech Stack
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9A5CFF&center=true&vCenter=true&width=435&lines=Code.;Design.;Repeat." />
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,mongodb,git,github,vscode,figma" />
+  
 </div>
 
 ---
 
-<!-- GitHub Stats Section (Animated and Styled) -->
-<h2 align="center">📊 ɢɪᴛʜᴜʙ ɪɴsɪɢʜᴛs</h2>
+## 📂 My Favorite Tools
+
+| Category        | Stack                              |
+|----------------|-------------------------------------|
+| 💻 Frontend     | React, Next.js, Tailwind, Styled Components |
+| 🔧 Backend      | Node.js, Express.js, MySQL, MongoDB |
+| 🎨 Design       | Figma, Framer Motion                |
+| ⚙️ Dev Tools    | Git, GitHub, Postman, VS Code       |
+
+---
+
+## 📦 Latest Side Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Darkfolio](https://github.com/DevParth25/darkfolio) | A sleek developer portfolio with dark neon vibes and glassmorphism | Next.js, Tailwind, Framer Motion |
+| [API Playground](https://github.com/DevParth25/api-playground) | Tool to test and visualize REST APIs | React, Express |
+| [UIWaves](https://github.com/DevParth25/uiwaves) | CSS animation collection inspired by waves and glitch | Pure CSS, HTML |
+
+---
+
+## ✨ Quick Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevParth25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A5CFF&icon_color=FFD700&text_color=ffffff" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=DevParth25&theme=radical&hide_border=true&background=0D1117&currStreakLabel=9A5CFF&sideLabels=ffffff" width="48%" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=DevParth25&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevParth25&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
 
-<!-- Footer Capsule -->
+## ⚙️ Aesthetic Touch
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Coding!&fontSize=20&fontAlign=70&textColor=fff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevParth25&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/devparth25/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:panchalparth2019@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://twitter.com/devparth25"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://instagram.com/devparth25"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
