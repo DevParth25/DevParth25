@@ -1,46 +1,60 @@
-<!-- 🌌 Neon Header Animation -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Hey%20👋%20I'm%20Parth!&fontAlign=38&fontAlignY=35&color=0e0e52&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Dark%20UI%20Fanatic%20%7C%20Code%20Wizard&descSize=18&descAlign=50&descAlignY=60" />
+  <img src="./banner.png" alt="DevParth25 Banner" style="width:100%; border-radius: 16px;" />
 </p>
 
-<!-- ⌨️ Typing Effect -->
+<!-- Glowing Heading -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="40" />
+  ʜᴇʏ, ɪ'ᴍ ᴘᴀʀᴛʜ – Fᴜʟʟ Sᴛᴀᴄᴋ Dᴇᴠᴇʟᴏᴘᴇʀ
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Dark+Themes+%E2%9D%A4%EF%B8%8F;React+%2F+Next.js+%2F+Node.js+%2F+MySQL;Turning+ideas+into+elegant+UI%2FUX+%F0%9F%A4%96" />
+  <i>Building slick interfaces, powerful backends, and everything in between with a dash of neon.</i>
+</p>
+
+<!-- Intro Section -->
+<div align="center">
+
+✨ Passionate about full-stack development  
+🌙 Dark mode isn't a feature – it's a lifestyle  
+🚀 Tech Stack: HTML, CSS, Bootstrap, JavaScript, ReactJS, NextJS, NodeJS, MySQL  
+🔥 Making the web faster, prettier, and slightly sarcastic  
+
+</div>
+
+---
+
+<!-- Skills Grid -->
+<h2 align="center">⚙️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,nodejs,mysql&theme=dark" />
+</p>
+
+<!-- Glowing Skill Animation -->
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Full%20Stack&lineCount=2&line1=Frontend%3A%20HTML%2C%20CSS%2C%20JS%2C%20React%2C%20NextJS&line2=Backend%3A%20NodeJS%2C%20Express%2C%20MySQL&animation=wave&theme=dark" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-Hi, I’m **Parth**!  
-I build modern full-stack web applications with a dark twist 😎.
-
-- 💻 **Tech Stack:** React, Next.js, Node.js, MySQL, Bootstrap  
-- 🎨 **Style:** Minimal, animated, responsive — always dark mode  
-- 🚀 **Currently learning:** Prisma, Tailwind, API security  
-- 🤓 **I enjoy:** Solving bugs, building fast UIs, and writing clean code  
-- 🧠 **Motto:** _"I don’t always write dark UI... but when I do, it glows."_  
-- 🎮 **Fun Fact:** I debug in dark mode only.
+<!-- Fancy Card Box -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9A5CFF&center=true&vCenter=true&width=435&lines=Code.;Design.;Repeat." />
+</div>
 
 ---
 
-## 🧰 My Toolbox
-
+<!-- GitHub Stats Section (Animated and Styled) -->
+<h2 align="center">📊 ɢɪᴛʜᴜʙ ɪɴsɪɢʜᴛs</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,nodejs,mysql,git,github&perline=8&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevParth25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A5CFF&icon_color=FFD700&text_color=ffffff" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=DevParth25&theme=radical&hide_border=true&background=0D1117&currStreakLabel=9A5CFF&sideLabels=ffffff" width="48%" />
 </p>
 
 ---
 
-## 🎯 Currently Working On
-
-> 🛠️ Building a fully responsive dark-themed dashboard  
-> 🎨 Experimenting with animations & microinteractions  
-> 🧪 Trying out Prisma + MySQL stack with secure APIs  
-
----
-
-<!-- 🌀 Footer Wave -->
+<!-- Footer Capsule -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e52&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Coding!&fontSize=20&fontAlign=70&textColor=fff" />
 </p>
