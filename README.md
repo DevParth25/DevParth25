@@ -1,70 +1,105 @@
-<!-- 🎉 Gradient Wavy Header -->
+<!-- Top Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Dark%20Mode%20Fan%20|%20Bug%20Fixer%20Extraordinaire&descSize=18&descAlign=50&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&color=0e0e52&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Dark%20UI%20Addict%20|%20Open%20Source%20Fanboy&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
-<!-- ⌨️ Typing Effect -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=I+ship+UIs+in+Dark+Mode;Full+Stack+Web+Developer;React+%2F+Next+%2F+Node+%2F+MySQL;Let’s+build+something+cool." />
-</p>
-
----
-
-## 🌌 About Me
-
-I'm **Parth** — a creative, bug-busting, and design-obsessed **Full Stack Developer** who writes code that works *and* looks great — especially in the dark 🌒.
-
-- 🎯 **Focus:** Scalable backends, smooth UI/UX, and dark themes  
-- 🧠 **Stack:** React, Next.js, Node.js, MySQL, Bootstrap  
-- ⚡ **Now learning:** Cloud deployment + backend architecture  
-- 💬 **Fun Fact:** I write better commit messages than tweets  
-- 🧩 **Life Motto:** If it ain't broken, I probably fixed it last night
-
----
-
-## 🧰 Tech Toolbox – ⚡ Dark Mode Edition
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&border=true&borderRadius=25&fontFamily=Fira+Code&animation=fadeIn&lineHeight=25&icons=html,css,javascript,react,nextjs,nodejs,mysql,bootstrap,git,github&theme=tokyonight" />
-</p>
-
-<p align="center"><i>🧊 Designed with a dark glass aesthetic in mind — sharp, clean, modern.</i></p>
-
----
-
-## 🛠️ Projects & Collabs
-
-✨ Coming soon: custom **project cards** with previews & links.
-
-📬 Want one designed for your README? Let’s collab on something awesome.
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0e0e52?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0ef7ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%94%A5;React+%2F+Next+%2F+Node+%2F+MySQL+Dev;Building+Dark+Themed+Experiences+☕;Let's+Ship+Something+Awesome+Together+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## ✨ Quote of the Day
+## 🧠 About Me
+
+I'm **Parth** — a creative full stack developer passionate about crafting sleek dark interfaces and scalable web systems.
+
+- 🌐 **Specialties:** Responsive UIs, server-side logic, pixel-perfect components  
+- 💻 **Stack:** React, Next.js, Node.js, MySQL, Bootstrap  
+- ⚙️ **Currently Exploring:** Microservices, Docker & Vercel deploys  
+- 🤓 **Fun Fact:** I debug faster in dark mode (that’s not a myth)
+
+---
+
+## 🔧 Tech Stack — Glass UI Edition 🧊
+
+<!-- Glass-style Toolbox -->
+<div align="center" style="background:linear-gradient(#0e0e52,#000);border-radius:15px;padding:25px;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">HTML5</sub></b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">CSS3</sub></b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">JavaScript</sub></b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">React</sub></b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">Next.js</sub></b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">Node.js</sub></b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">MySQL</sub></b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">Bootstrap</sub></b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">Git</sub></b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github" width="60" height="60" />
+        <br><b><sub style="color:white;background:rgba(255,255,255,0.05);padding:6px 12px;border-radius:12px;">GitHub</sub></b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📁 Featured Projects – Live & Interactive
+
+Coming soon... Want **project cards** with preview images, live demo, tech badges, and GitHub links? I’ll help you build them into your README like a pro ⚡
+
+---
+
+## 📫 Let’s Connect
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- 🌊 Dark Wavy Footer -->
+## ⚡ Daily Dev Quote
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=120&section=footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e52&height=120&section=footer" />
 </p>
