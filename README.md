@@ -1,96 +1,79 @@
-<!-- Banner -->
+<!-- 🌌 NEON DARK THEME README with Glassmorphism + Animations -->
+
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&color=00f2ff&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Dark%20Theme%20Fan%20%7C%20Bug%20Fixer%20Extraordinaire&descSize=20&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff&background=gradient&gradientFrom=0d0d0d&gradientTo=1a1a1a"/>
 </p>
 
-<!-- Avatar & Intro -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
-
-# 👋 Hey, I'm Parth Panchal
-
-💻 Full Stack Developer | 🎨 Dark Mode Designer | 🧠 Problem Solver
-
+<!-- TYPING TITLE -->
 <p align="center">
-  <i>“Making the web faster, cooler, and slightly more sarcastic—one commit at a time.”</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+web+apps.;Dark+themes+are+my+superpower.;React+%2F+Next.js+%2F+Node.js+%2F+MySQL;I+ship+UIs+that+feel+smooth+AF."/>
 </p>
 
-![Skills Animation](./Skills_Animation_Dark.gif)
+<!-- ABOUT ME -->
+<div align="center" style="background: linear-gradient(145deg, #0f0f0f, #1c1c1c); border-radius: 20px; padding: 20px; color: #00f7ff; font-family: 'Fira Code', monospace;">
+
+### 💡 About Me
+I'm **Parth** — a detail-obsessed **Full Stack Developer** who builds in the dark (literally). I like clean UI, smart logic, and anything that glows.
+
+💥 Tech stack: `HTML`, `CSS`, `JS`, `React`, `Next.js`, `Node.js`, `MySQL`
+
+💭 Fun Fact: I debug using 99% sarcasm and 1% actual logic ⚡
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
-
-- 🔭 Currently working on modern full stack apps using `React`, `Next.js`, `Node.js`, and `MySQL`.
-- 🎨 Passionate about UI/UX design, micro-animations & neon aesthetics.
-- 🧠 Always learning: exploring DevOps, WebGL, and system design.
-- 🧩 I love brain teasers, hacking together side projects, and reading source code.
-- ⚡ Fun Fact: I drink too much coffee and rename variables 8 times before pushing.
-
----
-
-## 🛠 Tech Stack
+<!-- TECH TOOLBOX – NEON GLASS -->
+<h2 align="center">🔧 Tech Toolbox – Neon Cards</h2>
 
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,mongodb,git,github,vscode,figma" />
-  
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=html" title="HTML5"/></td>
+      <td><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></td>
+      <td><img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/></td>
+      <td><img src="https://skillicons.dev/icons?i=react" title="ReactJS"/></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs" title="NextJS"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></td>
+      <td><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/></td>
+      <td><img src="https://skillicons.dev/icons?i=git" title="Git"/></td>
+      <td><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
-## 📂 My Favorite Tools
-
-| Category        | Stack                              |
-|----------------|-------------------------------------|
-| 💻 Frontend     | React, Next.js, Tailwind, Styled Components |
-| 🔧 Backend      | Node.js, Express.js, MySQL, MongoDB |
-| 🎨 Design       | Figma, Framer Motion                |
-| ⚙️ Dev Tools    | Git, GitHub, Postman, VS Code       |
-
----
-
-## 📦 Latest Side Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Darkfolio](https://github.com/DevParth25/darkfolio) | A sleek developer portfolio with dark neon vibes and glassmorphism | Next.js, Tailwind, Framer Motion |
-| [API Playground](https://github.com/DevParth25/api-playground) | Tool to test and visualize REST APIs | React, Express |
-| [UIWaves](https://github.com/DevParth25/uiwaves) | CSS animation collection inspired by waves and glitch | Pure CSS, HTML |
-
----
-
-## ✨ Quick Stats
-
+<!-- FUNNY QUOTE BOX -->
+<h2 align="center">💬 Dev Quote</h2>
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=DevParth25&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevParth25&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23f2f2f2&titleColor=%2300f7ff&codeColor=%23f81ce5&hideBorder=true"/>
 </p>
 
----
+<blockquote align="center" style="background: #111; border-left: 5px solid #00f7ff; padding: 20px; border-radius: 12px; color: #fff; font-style: italic;">
+  "Code never lies, comments sometimes do. And I always trust the dark mode."
+  <br/> 
+  <span style="float:right; font-weight: bold; color: #00f7ff;">— Parth, probably at 3am 💻🌙</span>
+</blockquote>
 
-## ⚙️ Aesthetic Touch
-
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevParth25&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=100&section=footer&animation=fadeIn" />
 </p>
 
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/devparth25/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:panchalparth2019@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://twitter.com/devparth25"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://instagram.com/devparth25"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+<!-- STYLES (GitHub strips most inline styles, this is only for aesthetic preview here) -->
+<style>
+  table {
+    background: rgba(0, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  td {
+    padding: 10px 20px;
+  }
+</style>
