@@ -1,70 +1,63 @@
-<!-- 🖤 DARK THEME HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&color=0e0e52&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Dark%20UI%20Enthusiast%20%7C%20Bug%20Fixer%20Extraordinaire&descSize=18&descAlign=50&descAlignY=60" />
-</p>
-
-<!-- 🔤 Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Dark+Theme+is+Life.;React+%2F+Next.js+%2F+Node.js+%2F+MySQL;Clean+Code.+Clean+UI.+Always." />
-</p>
+<h1 align="center">Hi 👋, I'm Parth</h1>
+<h3 align="center">Full Stack Developer | Dark Theme Enthusiast | Code & Coffee Lover</h3>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I’m **Parth** — a full stack developer who lives in dark mode, builds performant web apps, and loves to create dev experiences that *just feel right*.
-
-- 🚀 **I specialize in:** Frontend architecture & backend logic  
-- 🎯 **Current focus:** Full-stack app deployment & scalable systems  
-- 🛠️ **Languages & Tools:** React, Next.js, Node.js, MySQL, Bootstrap  
-- 🎨 **Style guide:** Dark, minimal, fast, responsive  
-- 🧠 **Fun fact:** I debug with vibes and console.log()
+- 🔭 I’m currently working on full stack web apps with modern tech  
+- 🌱 Always learning new backend tools, deployment workflows, and system design  
+- 💡 I love creating dark-themed, clean UI experiences with smooth UX  
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, or **how to stay up all night debugging**  
+- ⚡ Fun fact: My favorite bug is the one I fixed accidentally 😅
 
 ---
 
-## 🧰 Tech Toolbox
+### 🛠️ Tech Stack
 
-> 💡 Hover icons for tooltips (supported on many markdown renderers)
+- **Frontend:**  
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)  
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
+  ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nextjs,nodejs,mysql,git,github&theme=dark" />
-</div>
+- **Backend & Database:**  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
----
-
-## 🔥 Projects
-
-> Coming soon with project cards! Want this section with **live preview buttons**, **hover effects**, and a **stack badge**? Let me know!
-
-### 📌 Example:
-
-#### 🧪 DevDarkUI
-A sleek dark-mode landing page for developers
-
-- ⚙️ Stack: `Next.js`, `Tailwind`, `Framer Motion`
-- 🌍 [Live Demo](https://your-demo.com) | 🔗 [Code](https://github.com/DevParth25/devdarkui)
+- **Tools & Workflow:**  
+  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
-## 📬 Let’s Connect
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevParth25&show_icons=true&theme=tokyonight" alt="Parth's GitHub stats" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevParth25&theme=tokyonight" alt="GitHub Streak" width="47%" />
 </p>
 
 ---
 
-## ⚡ Quote of the Day
+### 📫 Connect with Me
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Optional: Add portfolio -->
+  <!-- <a href="https://your-portfolio.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" />
+  </a> -->
 </p>
 
 ---
 
-<!-- 🖤 DARK FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e52&height=120&section=footer"/>
-</p>
+> *“First, solve the problem. Then, write the code. Then, switch it to dark mode.”*
