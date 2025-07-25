@@ -30,35 +30,34 @@ Hi, I’m Parth! 👨‍💻
 
 ## ⚙️ Tech Stack + Visual Skills
 
-<div align="center" style="margin-top: -20px;">
-  <img src="./Skills_Animation_Dark.gif" width="350px" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nextjs,nodejs,mysql,git,github,tailwind&perline=8&theme=dark" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; background: linear-gradient(145deg, #0f0c29, #302b63, #24243e); padding: 40px 20px; border-radius: 20px; box-shadow: 0 0 25px #00f7ff;">
+  <div>
+    <img src="./Skills_Animation_Dark.gif" width="320px" style="border-radius: 12px; box-shadow: 0 0 15px #00f7ff;" />
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nextjs,nodejs,mysql,git,github,tailwind&perline=6&theme=dark" />
+  </div>
 </div>
 
 ---
 
-## 📂 My Favorite Tools
+## 🧰 My Favorite Tools
 
 <div align="center">
-
-<table width="100%" style="text-align: center;">
-  <tr>
-    <td><strong>🧠 IDE</strong></td>
-    <td><strong>🎨 Design</strong></td>
-    <td><strong>🚀 Deployment</strong></td>
-    <td><strong>🛠 Backend</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
-    <td><img src="https://skillicons.dev/icons?i=figma" /></td>
-    <td><img src="https://skillicons.dev/icons?i=vercel,netlify" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" /></td>
-  </tr>
-</table>
-
+  <table width="100%" style="text-align: center; background: linear-gradient(145deg, #0f0c29, #302b63, #24243e); color: white; border-radius: 15px; padding: 10px; box-shadow: 0 0 15px #00f7ff;">
+    <tr>
+      <td><strong>🧠 IDE</strong></td>
+      <td><strong>🎨 Design</strong></td>
+      <td><strong>🚀 Deployment</strong></td>
+      <td><strong>🛠 Backend</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
+      <td><img src="https://skillicons.dev/icons?i=figma" /></td>
+      <td><img src="https://skillicons.dev/icons?i=vercel,netlify" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
