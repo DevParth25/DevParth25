@@ -1,45 +1,47 @@
-# 👋 Hi there, I'm Parth Panchal (@DevParth25)
+<!--Header-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴘᴀʀᴛʜ!
+*Full Stack Developer (React / Next / Node / MySQL)*
+<br/>
 
-I'm a passionate **Full Stack Developer** who loves building seamless and scalable web applications. From crafting responsive UIs to architecting robust backend systems, I enjoy working across the entire stack.
+<!--Intro-->
+<p align="left">
+I'm a passionate Full Stack Developer specializing in crafting modern, scalable, and responsive web applications using the MERN stack. I love building sleek UI, robust backend systems, and solving real-world problems through code.
+</p>
 
----
+- 🚀 Exploring advanced React/Next.js techniques  
+- 💻 Building reusable UI/UX components  
+- 🌱 Currently learning backend architecture & cloud deployment  
+- 🧩 Puzzle lover & tech tinkerer  
+- 🧠 Lifelong learner, always improving  
+- 🌐 Visit my [Portfolio](https://your-portfolio-link.com)  
 
-## 🚀 Tech Stack
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
----
-
-## 🌱 Currently Exploring
-
-- Deepening my knowledge of **React** and **Next.js**
-- Learning more about **API design**, **authentication**, and **backend best practices**
-- Working on performance optimization and full-stack architecture
+<!--Profile View Counter-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DevParth25&label=Profile%20views&color=ff00ff&style=for-the-badge" alt="DevParth25 profile views" />
+</p>
 
 ---
 
-## 🤝 Let's Collaborate
+<!--Skills + Animation-->
+<h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
-Looking to collaborate on:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="center" alt="Tech stack animation" src="./Skills_Animation_White.gif" />
+</picture>
 
-- Innovative web applications
-- UX/UI design projects
-- Open-source contributions
+<h3 align="left">Languages & Frameworks</h3>
+
+- HTML5, CSS3, Bootstrap  
+- JavaScript, React.js, Next.js  
+- Node.js, Express.js  
+- MySQL  
+- Git, GitHub, Vercel  
 
 ---
 
-## 💡 Fun Fact
-
-I enjoy solving logical puzzles, exploring new technologies, and continuously improving my code quality.
-
----
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:441350,100:ff00ff&height=70&section=footer"/>
+</p>
