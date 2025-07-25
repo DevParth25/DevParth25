@@ -24,45 +24,8 @@ Hi, I’m Parth! 👨‍💻
 🚀 Currently exploring: Prisma, Tailwind, and full-stack architecture
 
 🧙‍♂️ Fun Fact: My Git commits are mostly caffeine-powered and variable-renaming sessions.
-```
-
----
-
-## ⚙️ Tech Stack + Visual Skills
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; background: linear-gradient(145deg, #0f0c29, #302b63, #24243e); padding: 40px 20px; border-radius: 20px; box-shadow: 0 0 25px #00f7ff;">
-  <div>
-    <img src="./Skills_Animation_Dark.gif" width="320px" style="border-radius: 12px; box-shadow: 0 0 15px #00f7ff;" />
-  </div>
-  <div>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nextjs,nodejs,mysql,git,github,tailwind&perline=6&theme=dark" />
-  </div>
-</div>
-
----
-
-## 🧰 My Favorite Tools
-
-<div align="center">
-  <table width="100%" style="text-align: center; background: linear-gradient(145deg, #0f0c29, #302b63, #24243e); color: white; border-radius: 15px; padding: 10px; box-shadow: 0 0 15px #00f7ff;">
-    <tr>
-      <td><strong>🧠 IDE</strong></td>
-      <td><strong>🎨 Design</strong></td>
-      <td><strong>🚀 Deployment</strong></td>
-      <td><strong>🛠 Backend</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
-      <td><img src="https://skillicons.dev/icons?i=figma" /></td>
-      <td><img src="https://skillicons.dev/icons?i=vercel,netlify" /></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- 🌌 Footer Gradient -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0f0c29" />
-</p>
+⚙️ Tech Stack + Visual Skills
+<!-- 🚀 OUTSIDE the code block now — this will RENDER CORRECTLY --> <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding: 40px 20px; border-radius: 20px; background: linear-gradient(145deg, #0f0c29, #302b63, #24243e); box-shadow: 0 0 25px #00f7ff;"> <!-- Left: Animation GIF --> <div style="flex: 1; min-width: 320px; text-align: center;"> <img src="./Skills_Animation_Dark.gif" width="320px" style="border-radius: 12px; box-shadow: 0 0 20px #00f7ff;" /> </div> <!-- Right: Skill Icons --> <div style="flex: 1; min-width: 320px; text-align: center;"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nextjs,nodejs,express,mysql,mongodb,git,github,tailwind,figma&perline=4&theme=dark" /> </div> </div>
+🧰 My Favorite Tools
+<div align="center"> <table width="100%" style="text-align: center; background: linear-gradient(145deg, #0f0c29, #302b63, #24243e); color: white; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00f7ff;"> <tr> <td><strong>🧠 IDE</strong></td> <td><strong>🎨 Design</strong></td> <td><strong>🚀 Deployment</strong></td> <td><strong>🛠 Backend</strong></td> </tr> <tr> <td><img src="https://skillicons.dev/icons?i=vscode" /></td> <td><img src="https://skillicons.dev/icons?i=figma" /></td> <td><img src="https://skillicons.dev/icons?i=vercel,netlify" /></td> <td><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" /></td> </tr> </table> </div>
+<!-- 🌌 Footer Gradient --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0f0c29" /> </p> ```
