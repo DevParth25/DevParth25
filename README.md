@@ -1,74 +1,108 @@
-<!-- Header -->
+<!-- Top Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2b2d42&height=200&section=header&text=Hey,%20I'm%20Parth!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&color=gradient&desc=Full%20Stack%20Developer%20|%20Dark%20Mode%20Fan%20|%20Bug%20Fixer%20Extraordinaire&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+React+%2B+Next.js+%2B+Node.js;Dark+Mode+Designer;Lover+of+Clean+UI+and+Bad+Puns" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+web+apps.;Dark+themes+are+my+superpower.;React+%2F+Next.js+%2F+Node.js+%2F+MySQL;I+ship+UIs+that+feel+smooth+AF." />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-<div style="background-color: #1e1e2f; padding: 20px; border-radius: 12px; color: #eee;">
-  <ul>
-    <li>⚡ Full Stack Developer with love for <strong>dark UIs</strong>, <strong>clean design</strong> & <strong>reusable code</strong></li>
-    <li>🌱 Currently deep-diving into system design & cloud deployment</li>
-    <li>🛠️ Tech Stack includes React, Next.js, Node.js, MySQL, Bootstrap & more</li>
-    <li>🧩 I break stuff... just to fix it better 😎</li>
-  </ul>
+I'm **Parth** — a creative & detail-obsessed **Full Stack Developer** who makes dark-mode apps that not only *work*, but *look good* doing it.
+
+- 🌐 **Specializing In:** Responsive frontends, scalable backends, & pixel-perfect design  
+- 🧩 **Tech Stack:** React, Next.js, Node.js, MySQL, Bootstrap  
+- 🚀 **Current Focus:** Full-stack deployment & backend architecture  
+- 🧠 **Fun Fact:** My commit messages are more expressive than my actual chats 😅  
+- 💡 **Life Hack:** If it works, don’t touch it — unless you’re me
+
+---
+
+## 🧰 Tech Toolbox – Upgraded 🔥
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+        <br><b>HTML5</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+        <br><b>CSS3</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" />
+        <br><b>JavaScript</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+        <br><b>React</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+        <br><b>Next.js</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+        <br><b>Node.js</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+        <br><b>MySQL</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
+        <br><b>Bootstrap</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+        <br><b>Git</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+        <br><b>GitHub</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-## 🚀 Tech Toolbox
-
-<div align="center" style="margin-top: 10px;">
-  
-<!-- Row 1 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-
-<!-- Row 2 -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-
-<!-- Row 3 -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2b2d42" style="border-radius: 12px; margin: 4px;" />
-
-</div>
+> 💎 Designed like a dev’s dream setup — dark, slick, minimal.
 
 ---
 
-## 🎯 Let's Connect
+## 🎯 Projects & Collabs
+
+Coming soon: cards for featured projects  
+Let me know if you'd like these designed for your README too ✅
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b2d42" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2d42" />
-  </a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧠 Fun Quote
+## ⚡ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- Footer -->
+<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2b2d42&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e52&height=120&section=footer"/>
 </p>
