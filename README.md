@@ -1,90 +1,79 @@
-<!-- 🌌 Glowing Wave Header -->
+<!-- 🌌 NEON DARK THEME README with Glassmorphism + Animations -->
+
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&color=0ff&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Dark%20Theme%20Fan%20%7C%20Bug%20Fixer%20Extraordinaire&descSize=20&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff&background=gradient&gradientFrom=0e0e0e&gradientTo=1a1a1a" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&color=00f2ff&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Dark%20Theme%20Fan%20%7C%20Bug%20Fixer%20Extraordinaire&descSize=20&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff&background=gradient&gradientFrom=0d0d0d&gradientTo=1a1a1a"/>
 </p>
 
-<!-- 🧠 Typing Title -->
+<!-- TYPING TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+web+apps.;Dark+themes+are+my+superpower.;React+%2F+Next.js+%2F+Node.js+%2F+MySQL;I+ship+UIs+that+feel+smooth+AF." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+web+apps.;Dark+themes+are+my+superpower.;React+%2F+Next.js+%2F+Node.js+%2F+MySQL;I+ship+UIs+that+feel+smooth+AF."/>
 </p>
 
----
+<!-- ABOUT ME -->
+<div align="center" style="background: linear-gradient(145deg, #0f0f0f, #1c1c1c); border-radius: 20px; padding: 20px; color: #00f7ff; font-family: 'Fira Code', monospace;">
 
-## 🧠 About Me
+### 💡 About Me
+I'm **Parth** — a detail-obsessed **Full Stack Developer** who builds in the dark (literally). I like clean UI, smart logic, and anything that glows.
 
-I'm **Parth** — a creative & detail-obsessed **Full Stack Developer** who makes dark-mode apps that not only *work*, but *look good* doing it.
+💥 Tech stack: `HTML`, `CSS`, `JS`, `React`, `Next.js`, `Node.js`, `MySQL`
 
-- 🚀 **Current Focus:** Building smooth full-stack apps with ✨ dark flair  
-- 🧩 **Specializing In:** UI magic, responsive designs, backend wizardry  
-- 🧠 **Fun Fact:** I debug in dark mode and think in JavaScript  
-- 🧠 **Life Hack:** When in doubt, console.log() it 😎
+💭 Fun Fact: I debug using 99% sarcasm and 1% actual logic ⚡
 
----
+</div>
 
-## 🔧 Tech Toolbox – Neon Glass Cards
+<br/>
+
+<!-- TECH TOOLBOX – NEON GLASS -->
+<h2 align="center">🔧 Tech Toolbox – Neon Cards</h2>
 
 <div align="center">
-  <table style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); border-radius: 12px; padding: 20px;">
+  <table>
     <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=html" width="50" />
-        <br><b>HTML</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=css" width="50" />
-        <br><b>CSS</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=javascript" width="50" />
-        <br><b>JavaScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=react" width="50" />
-        <br><b>React</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
-        <br><b>Next.js</b>
-      </td>
+      <td><img src="https://skillicons.dev/icons?i=html" title="HTML5"/></td>
+      <td><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></td>
+      <td><img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/></td>
+      <td><img src="https://skillicons.dev/icons?i=react" title="ReactJS"/></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs" title="NextJS"/></td>
     </tr>
     <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
-        <br><b>Node.js</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mysql" width="50" />
-        <br><b>MySQL</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
-        <br><b>Bootstrap</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=git" width="50" />
-        <br><b>Git</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=github" width="50" />
-        <br><b>GitHub</b>
-      </td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></td>
+      <td><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/></td>
+      <td><img src="https://skillicons.dev/icons?i=git" title="Git"/></td>
+      <td><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></td>
     </tr>
   </table>
 </div>
 
----
+<br/>
 
-## 💬 Dev Quote of the Day
-
+<!-- FUNNY QUOTE BOX -->
+<h2 align="center">💬 Dev Quote</h2>
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=%23c9d1d9&titleColor=%230ff&codeColor=%23f81ce5" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23f2f2f2&titleColor=%2300f7ff&codeColor=%23f81ce5&hideBorder=true"/>
 </p>
 
-> _“99 bugs in the code... take one down, patch it around... 127 bugs in the code.”_ 🤹‍♂️
+<blockquote align="center" style="background: #111; border-left: 5px solid #00f7ff; padding: 20px; border-radius: 12px; color: #fff; font-style: italic;">
+  "Code never lies, comments sometimes do. And I always trust the dark mode."
+  <br/> 
+  <span style="float:right; font-weight: bold; color: #00f7ff;">— Parth, probably at 3am 💻🌙</span>
+</blockquote>
 
----
-
-<!-- 🎇 Footer Banner -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=100&section=footer&animation=fadeIn" />
 </p>
+
+<!-- STYLES (GitHub strips most inline styles, this is only for aesthetic preview here) -->
+<style>
+  table {
+    background: rgba(0, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  td {
+    padding: 10px 20px;
+  }
+</style>
