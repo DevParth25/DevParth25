@@ -1,108 +1,69 @@
-<!-- Top Wavy Header -->
+<!-- Top Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&color=gradient&desc=Full%20Stack%20Developer%20|%20Dark%20Mode%20Fan%20|%20Bug%20Fixer%20Extraordinaire&descSize=20&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&text=Hey%20👋%20I'm%20Parth!&fontAlign=40&fontAlignY=35&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Dark%20Mode%20Fan%20|%20Bug%20Fixer%20Extraordinaire&descSize=18&descAlign=50&descAlignY=65&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+web+apps.;Dark+themes+are+my+superpower.;React+%2F+Next.js+%2F+Node.js+%2F+MySQL;I+ship+UIs+that+feel+smooth+AF." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=I+ship+UIs+in+Dark+Mode;Full+Stack+Web+Developer;React+%2B+Next+%2B+Node+%2B+MySQL;Let’s+build+something+cool." />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🌌 About Me
 
-I'm **Parth** — a creative & detail-obsessed **Full Stack Developer** who makes dark-mode apps that not only *work*, but *look good* doing it.
+I'm **Parth** — a creative, bug-busting, and design-obsessed **Full Stack Developer** who writes code that works *and* looks great — especially in the dark 🌒.
 
-- 🌐 **Specializing In:** Responsive frontends, scalable backends, & pixel-perfect design  
-- 🧩 **Tech Stack:** React, Next.js, Node.js, MySQL, Bootstrap  
-- 🚀 **Current Focus:** Full-stack deployment & backend architecture  
-- 🧠 **Fun Fact:** My commit messages are more expressive than my actual chats 😅  
-- 💡 **Life Hack:** If it works, don’t touch it — unless you’re me
-
----
-
-## 🧰 Tech Toolbox – Upgraded 🔥
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
-        <br><b>HTML5</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
-        <br><b>CSS3</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" />
-        <br><b>JavaScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
-        <br><b>React</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
-        <br><b>Next.js</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
-        <br><b>Node.js</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
-        <br><b>MySQL</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
-        <br><b>Bootstrap</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
-        <br><b>Git</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
-        <br><b>GitHub</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-> 💎 Designed like a dev’s dream setup — dark, slick, minimal.
+- 🎯 **Focus:** Scalable backends, smooth UI/UX, and dark themes  
+- 🧠 **Stack:** React, Next.js, Node.js, MySQL, Bootstrap  
+- ⚡ **Now learning:** Cloud deployment + backend architecture  
+- 💬 **Fun Fact:** I write better commit messages than tweets  
+- 🧩 **Life Motto:** If it ain't broken, I probably fixed it last night
 
 ---
 
-## 🎯 Projects & Collabs
-
-Coming soon: cards for featured projects  
-Let me know if you'd like these designed for your README too ✅
-
----
-
-## 📫 Connect With Me
+## 🔧 Tech Toolbox – ⚡ Now With Style
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&border=true&borderRadius=25&fontFamily=Fira+Code&animation=fadeIn&lineHeight=25&icons=html,css,javascript,react,nextjs,nodejs,mysql,bootstrap,git,github&theme=tokyonight" />
+</p>
+
+<p align="center"><i>🧊 Designed with a dark glass aesthetic in mind — sharp, clean, modern.</i></p>
+
+---
+
+## 🛠️ Projects & Collabs
+
+Coming soon: custom **project cards** for live demos + GitHub links.  
+Want one designed in this style? Ping me!
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e0e52?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## ⚡ Quote of the Day
+## ✨ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-<!-- Footer Banner -->
+<!-- Footer Dark Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e52&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=120&section=footer"/>
 </p>
